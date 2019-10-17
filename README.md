@@ -2,7 +2,7 @@
 A shared repository for CAD/CAE graph transformations
 
 ## 19: Downloading terrain data
-Download all hgt files for Poland.
+Download all hgt files for Poland (this will take a while, but can be safely interrupted).
 
 ```$ wget -r -nc -nH --accept-regex='.*N[1-5][0-9]E0[2-5][0-9].*' https://dds.cr.usgs.gov/srtm/version2_1/SRTM3/Eurasia/```
 
